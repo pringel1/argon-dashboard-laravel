@@ -92,7 +92,7 @@ Besides the dashboard, the auth pages, the billing and table pages, there is als
 
 | HTML | Vue | Laravel |
 | --- | --- | --- |
-| [![Argon Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/96/thumb/argon-dashboard-2.jpg)](https://www.creative-tim.com/product/argon-dashboard) | [![Vue Argon Dashboard ](https://s3.amazonaws.com/creativetim_bucket/products/156/thumb/vue-argon-dashboard.jpg?)](https://www.creative-tim.com/product/vue-argon-dashboard) | [![Argon Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/140/original/argon-dashboard-laravel.jpg)](https://www.creative-tim.com/product/argon-dashboard-laravel) |
+| [![Argon Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/96/thumb/argon-dashboard-2.jpg)](https://www.creative-tim.com/product/argon-dashboard) | [![Vue Argon Dashboard ](https://s3.amazonaws.com/creativetim_bucket/products/156/thumb/vue-argon-dashboard.jpg?)](https://www.creative-tim.com/product/vue-argon-dashboard) | [![Argon Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/140/thumb/argon-dashboard-laravel.jpg)](https://www.creative-tim.com/product/argon-dashboard-laravel) |
 
 
 ## Demo
