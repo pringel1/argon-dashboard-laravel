@@ -37,6 +37,3 @@ All notable changes to `Argon` frontend preset for Laravel will be documented in
   - Add new example pages
   - Add Light/Dark feature
   - New Documentation version
-
-## Version 2.1.0 - 2024-05-27
-  - Update to Laravel 11.x
